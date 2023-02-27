@@ -8,7 +8,7 @@ train: ./data/LabelImages/YoloLabels/Train  # 118287 images
 val: ./data/LabelImages/YoloLabels/Validation  # 5000 images
 
 # number of classes
-nc: 80
+nc: 1
 
 # class names
 names: [ 'Butterfly' ]
